@@ -145,7 +145,7 @@
               pushsourcemapfn: "$scramjet$pushsourcemap"
             },
             files: {
-              wasm: "/scramjet.wasm.js",
+              wasm: "https://cdn.jsdelivr.net/gh/gustambolopez/scram@main/scramjet.wasm.wasm",
               shared: "https://cdn.jsdelivr.net/gh/gustambolopez/scram@main/scramjet.shared.js",
               worker: "https://cdn.jsdelivr.net/gh/gustambolopez/scram@main/scram/scramjet.worker.js",
               client: "https://cdn.jsdelivr.net/gh/gustambolopez/scram@main/scramjet.client.js",
