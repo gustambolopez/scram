@@ -1,1 +1,1 @@
-slightly modified scramjet barebones for trying to make uv work in a single html file
+slightly modified scramjet barebones for trying to make scramjet work in a single html file (retarded idea) 
